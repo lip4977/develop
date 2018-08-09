@@ -1,0 +1,8 @@
+/dll_files/*.pdb
+/web_files/dashboard.hfingo.com/bin/*.pdb
+/web_files/dashboard.cic.hfingo.com/hbm
+/web_files/dashboard.hfingo.com/hbm
+/web_files/book.dashboard.web.hfingo.com/hbm
+bin
+obj
+
